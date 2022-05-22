@@ -1,6 +1,11 @@
 Toastmasters scheduler
 ---
 
+
+--- to do:
+    it doesn't seem to be removing student buckets by role appropriately. Double check this process...
+
+
 - Speaker roles
     - Prepared Speaker
     - Impromptu Speaker
