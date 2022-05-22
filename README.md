@@ -1,0 +1,23 @@
+Toastmasters scheduler
+---
+
+- Speaker roles
+    - Prepared Speaker
+    - Impromptu Speaker
+    - Evaluator
+- Leadership roles 
+    - Toastmaster
+    - President
+    - Table Topics Master
+    - General Evaluator
+- Support roles
+    - Greeter
+    - Joke Master
+    - Timer
+    - Grammarian
+    - Word of the Day
+    - Ah Counter
+    - Ballot Counter
+    - Thought of the day
+    - Sergeant at arms
+    - Stand-in
