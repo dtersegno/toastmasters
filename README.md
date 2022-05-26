@@ -8,7 +8,7 @@ python toastmasters.py (names_list_path = ./names.txt
                        ))))
 ```
 
-Creates a random schedule for a multi-day [Toastmasters](https://www.toastmasters.org/)-style conference given a list of names.
+Creates a random schedule for a multi-day [Toastmasters](https://www.toastmasters.org/)-style conference given a list of names. Effectively a giant rectangular _Sudoku_ with misshapen and disconnected inner regions.
 
 ---
 ### arguments
