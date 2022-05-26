@@ -15,15 +15,15 @@ numargs = len(sys.argv)
 if numargs >= 2:
     student_name_path = './' + sys.argv[1]
 else:
-    student_name_path = './class_names.txt'
+    student_name_path = './names.txt'
 if numargs >= 3:
     output_file_path = './' + sys.argv[2]
 else:
     output_file_path = './toastmasters_schedule.csv'
-if numargs >=4 and sys.argv[3] == 'True':
-    verbose = True
-else:
+if numargs >=4 and sys.argv[3] == 'False':
     verbose = False
+else:
+    verbose = True
 if numargs == 5:
     seed = int(sys.argv[4])
 else:
