@@ -43,7 +43,7 @@ Every day, the people are assigned a role. The roles come in several classes:
     - Sergeant at arms
     - Stand-in
 
-All constraints:
+The roles are assigned according to the following constraints:
 - Every attendee must do each of the speaker roles once and only once during the conference.
 - Everyone must do any of the leadership roles at least once.
 - No attendee may have more than one role on a given day (an exception for "overflow" speakers ahead).
