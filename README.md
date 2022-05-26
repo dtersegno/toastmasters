@@ -10,6 +10,8 @@ python toastmasters.py (names_list_path = ./names.txt
 
 Creates a random schedule for a multi-day [Toastmasters](https://www.toastmasters.org/)-style conference given a list of names. Effectively a giant rectangular _Sudoku_ with misshapen and disconnected inner regions.
 
+The Jupyter notebook is an initial scratchwork version of the code.
+
 ---
 ### arguments
 - `names_list_path` a file with names to fill the schedule
