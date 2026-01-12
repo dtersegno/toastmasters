@@ -295,11 +295,6 @@ for day in cal.index:
     if not day_filled and verbose:
         print(f'Failed to fill day {day} in {day_fill_counter_max} iterations.')
 
-        
-        
-        
-        
-
 #attempt to fill in remaining speaker roles.
 cal[['Prepared Speaker 4','Impromptu Speaker 4','Evaluator 4']] = np.nan
 if verbose:
@@ -355,7 +350,6 @@ if verbose:
         print(f'There are students who have not been Impromptu Speaker.')
     if len(student_buckets_by_role['Evaluator']) > 0:
         print(f'There are students who have not been Evaluator.')
-
 
 ################
 # replace dummy names with real names and save the schedule
